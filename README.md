@@ -40,10 +40,18 @@
 
 <h2 align="left">Projects</h2>
 
-###
+### 🏥 [Clinic Management App](https://hospital-drcp.onrender.com/) | [🔗 Source Code](https://github.com/gurmeet1011/Hospital)
+✅ **MERN Stack Application** supporting **1,000+ users**.  
+✅ Secure authentication using **JWT tokens**.  
+✅ Comprehensive **medical history tracking** & **appointment scheduling**.  
+✅ Optimized backend managing **millions of queries**.  
+✅ Fully **responsive UI** for mobile and desktop users.  
 
-- 🚀 [Clinic Management App](https://hospital-drcp.onrender.com/) - A MERN stack application managing patient records, appointments, and medical history for 1,000+ users.
-- 💰 [Financely](https://financely-apps.netlify.app/) - A personal finance management app built with React.js and Firebase for seamless tracking of expenses and incomes.
+### 💰 [Financely](https://financely-apps.netlify.app/) | [🔗 Source Code](https://github.com/gurmeet1011/Financely)
+✅ Personal finance tracker handling **10,000+ users**.  
+✅ **Firebase Authentication & Firestore** for real-time data storage.  
+✅ Features: **search, filter, sort, CSV export/import**.  
+✅ **Deployed on Netlify** with a fast, responsive UI.
 
 ###
 
